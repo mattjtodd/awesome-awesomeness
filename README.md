@@ -8,3 +8,4 @@ This is a record of awesome technology things found on the inerweb.
 
 #### [Mobi](https://mobi.inovexcorp.com/)
 #### [OSLC (Open Services for Lifecycle Collaboration)](https://open-services.net/)
+#### [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)
