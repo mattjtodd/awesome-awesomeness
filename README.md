@@ -10,3 +10,4 @@ This is a record of awesome technology things found on the inerweb.
 #### [OSLC (Open Services for Lifecycle Collaboration)](https://open-services.net/)
 #### [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)
 #### [SPARQL Wrapper](https://rdflib.github.io/sparqlwrapper/)
+#### [Babel](https://babelnet.org/)
