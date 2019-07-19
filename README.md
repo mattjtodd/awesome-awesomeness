@@ -11,3 +11,4 @@ This is a record of awesome technology things found on the inerweb.
 #### [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)
 #### [SPARQL Wrapper](https://rdflib.github.io/sparqlwrapper/)
 #### [Babel](https://babelnet.org/)
+#### [WebVOWL (Web-based Visualization of Ontologies)](http://vowl.visualdataweb.org/webvowl.html)
