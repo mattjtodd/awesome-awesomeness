@@ -42,3 +42,6 @@ This is a record of awesome technology things found on the inerweb.
 #### [AWS WatchTower](https://aws.amazon.com/controltower/)
 #### [Azure Form Recognizer](https://azure.microsoft.com/en-gb/services/cognitive-services/form-recognizer/)
 
+### Goverment, Frameworks & Initiatives
+
+#### [Digital Outcomes GCloud](https://www.gov.uk/guidance/digital-outcomes-and-specialists-suppliers-guide)
