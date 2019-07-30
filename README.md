@@ -51,3 +51,4 @@ This is a record of awesome technology things found on the inerweb.
 ### Goverment, Frameworks & Initiatives
 
 #### [Digital Outcomes GCloud](https://www.gov.uk/guidance/digital-outcomes-and-specialists-suppliers-guide)
+#### [Innovation WM](https://innovationwm.co.uk/)
