@@ -18,6 +18,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [AWS Neptune](https://aws.amazon.com/neptune/)
 #### [JSON-LD Best Practice](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 #### [SKOS Primer](https://www.w3.org/TR/skos-primer/)
+#### [Turtle Primer](https://www.w3.org/2007/02/turtle/primer/)
 
 ### Telemetry, Monitoring & Observability
 
