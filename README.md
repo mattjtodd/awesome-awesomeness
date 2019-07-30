@@ -34,8 +34,10 @@ This is a record of awesome technology things found on the inerweb.
 ### Contaiers & Orchestrators
 
 #### [CNAB](https://cnab.io)
+#### [Trivy](https://github.com/knqyf263/trivy)
 
 ### Public Cloud
 
 #### [AWS WatchTower](https://aws.amazon.com/controltower/)
 #### [Azure Form Recognizer](https://azure.microsoft.com/en-gb/services/cognitive-services/form-recognizer/)
+
