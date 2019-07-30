@@ -38,6 +38,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Java & JVM
 
 #### [Helidon](https://helidon.io/#/)
+#### [JSON-B](http://json-b.net/)
 
 ### Contaiers & Orchestrators
 
