@@ -20,3 +20,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Telemetry, Monitoring & Observability
 
 #### [NetData](https://www.netdata.cloud/)
+
+### Peer2Peer
+
+#### [LibP2P](https://libp2p.io/)
