@@ -37,3 +37,4 @@ This is a record of awesome technology things found on the inerweb.
 ### Public Cloud
 
 #### [AWS WatchTower](https://aws.amazon.com/controltower/)
+#### [Azure Form Recognizer](https://azure.microsoft.com/en-gb/services/cognitive-services/form-recognizer/)
