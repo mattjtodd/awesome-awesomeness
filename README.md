@@ -46,6 +46,7 @@ This is a record of awesome technology things found on the inerweb.
 
 #### [CNAB](https://cnab.io)
 #### [Trivy](https://github.com/knqyf263/trivy)
+#### [EKSCTL](https://eksctl.io/)
 
 ### Public Cloud
 
