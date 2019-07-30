@@ -22,6 +22,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [Ontologies Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science)#cite_note-81)
 #### [AgroVoc Agrocultaural Ontology](http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/)
 #### [GROUND A Data Context Service](https://blog.acolyer.org/2017/01/23/ground-a-data-context-service/)
+#### [RDFa](http://rdfa.info/)
 
 ### Data, Data Science, Big Data, ML & AI
 
