@@ -19,6 +19,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [JSON-LD Best Practice](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 #### [SKOS Primer](https://www.w3.org/TR/skos-primer/)
 #### [Turtle Primer](https://www.w3.org/2007/02/turtle/primer/)
+#### [Ontologies Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science)#cite_note-81)
 
 ### Telemetry, Monitoring & Observability
 
