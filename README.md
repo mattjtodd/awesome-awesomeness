@@ -17,6 +17,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [HyperGraphQL](https://www.hypergraphql.org/)
 #### [AWS Neptune](https://aws.amazon.com/neptune/)
 #### [JSON-LD Best Practice](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
+#### [SKOS Primer](https://www.w3.org/TR/skos-primer/)
 
 ### Telemetry, Monitoring & Observability
 
