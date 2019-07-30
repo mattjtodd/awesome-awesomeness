@@ -16,6 +16,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [Dockerised WebVOWL](https://github.com/mattjtodd/webowl)
 #### [HyperGraphQL](https://www.hypergraphql.org/)
 #### [AWS Neptune](https://aws.amazon.com/neptune/)
+#### [JSON-LD Best Practice](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 
 ### Telemetry, Monitoring & Observability
 
