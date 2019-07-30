@@ -32,3 +32,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Contaiers & Orchestrators
 
 #### [CNAB](https://cnab.io)
+
+### Public Cloud
+
+#### [AWS WatchTower](https://aws.amazon.com/controltower/)
