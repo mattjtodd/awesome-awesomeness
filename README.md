@@ -14,6 +14,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [WebVOWL (Web-based Visualization of Ontologies)](http://vowl.visualdataweb.org/webvowl.html)
 #### [Dockerised WebVOWL](https://github.com/mattjtodd/webowl)
 #### [HyperGraphQL](https://www.hypergraphql.org/)
+#### [AWS Neptune](https://aws.amazon.com/neptune/)
 
 ### Telemetry, Monitoring & Observability
 
