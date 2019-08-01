@@ -26,6 +26,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [Schema,org](https://schema.org/)
 #### [Merck Halyard](https://github.com/Merck/Halyard)
 #### [RDF4J](https://rdf4j.eclipse.org/)
+#### [HyperGraphDB](http://www.hypergraphdb.org/?project=hypergraphdb&page=Home)
 
 ### Data, Data Science, Big Data, ML & AI
 
