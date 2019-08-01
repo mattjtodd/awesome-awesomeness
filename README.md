@@ -28,6 +28,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [RDF4J](https://rdf4j.eclipse.org/)
 #### [HyperGraphDB](http://www.hypergraphdb.org/?project=hypergraphdb&page=Home)
 #### [Scaling Up Linked Data] (https://www.slideshare.net/EUCLIDproject/scaling-up-linked-data)
+#### [RDF Stream Processors] (https://www.w3.org/community/rsp/wiki/RDF_Stream_Processors_Implementation)
 
 ### Data, Data Science, Big Data, ML & AI
 
