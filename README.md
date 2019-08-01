@@ -27,6 +27,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [Merck Halyard](https://github.com/Merck/Halyard)
 #### [RDF4J](https://rdf4j.eclipse.org/)
 #### [HyperGraphDB](http://www.hypergraphdb.org/?project=hypergraphdb&page=Home)
+#### [Scaling Up Linked Data] (https://www.slideshare.net/EUCLIDproject/scaling-up-linked-data)
 
 ### Data, Data Science, Big Data, ML & AI
 
