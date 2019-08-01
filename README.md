@@ -25,6 +25,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [RDFa](http://rdfa.info/)
 #### [Schema,org](https://schema.org/)
 #### [Merck Halyard](https://github.com/Merck/Halyard)
+#### [RDF4J](https://rdf4j.eclipse.org/)
 
 ### Data, Data Science, Big Data, ML & AI
 
