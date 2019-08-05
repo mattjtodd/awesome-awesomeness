@@ -62,3 +62,7 @@ This is a record of awesome technology things found on the inerweb.
 
 #### [Digital Outcomes GCloud](https://www.gov.uk/guidance/digital-outcomes-and-specialists-suppliers-guide)
 #### [Innovation WM](https://innovationwm.co.uk/)
+
+### Databases, Storage, Persistence
+
+#### [Open Elasticsearch] (https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/)
