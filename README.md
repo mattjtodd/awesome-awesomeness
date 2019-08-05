@@ -65,4 +65,4 @@ This is a record of awesome technology things found on the inerweb.
 
 ### Databases, Storage, Persistence
 
-#### [Open Elasticsearch] (https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/)
+#### [Open Elasticsearch](https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/)
