@@ -67,3 +67,7 @@ This is a record of awesome technology things found on the inerweb.
 
 #### [Open Elasticsearch](https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/)
 #### [Appache Druid](https://druid.apache.org/technology)
+
+### Frameoworks
+
+#### [Apache Geode](https://geode.apache.org/)
