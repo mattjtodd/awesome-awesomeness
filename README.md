@@ -38,6 +38,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Telemetry, Monitoring & Observability
 
 #### [NetData](https://www.netdata.cloud/)
+#### [htop](https://peteris.rocks/blog/htop/)
 
 ### Peer2Peer
 
