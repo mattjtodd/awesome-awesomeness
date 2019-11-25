@@ -34,6 +34,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Data, Data Science, Big Data, ML & AI
 
 #### [Apache Kylin](]http://kylin.apache.org/)
+#### [Open Data Institute](https://theodi.org/)
 
 ### Telemetry, Monitoring & Observability
 
