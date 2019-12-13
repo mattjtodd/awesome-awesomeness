@@ -84,3 +84,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Networking
 
 #### [Roll Your Own Network](https://roll.urown.net/index.html)
+
+### Security, Encryption
+
+#### [Shared Shamir's Secrets](http://point-at-infinity.org/ssss/index.html)
