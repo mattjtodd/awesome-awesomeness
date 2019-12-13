@@ -4,7 +4,7 @@ A curated list of awesomeness
 ## Overview
 This is a record of awesome technology things found on the inerweb.
 
-### SemanticWeb / Linked Data
+### Graph, SemanticWeb / Linked Data
 
 #### [Mobi](https://mobi.inovexcorp.com/)
 #### [OSLC (Open Services for Lifecycle Collaboration)](https://open-services.net/)
@@ -30,6 +30,7 @@ This is a record of awesome technology things found on the inerweb.
 #### [Scaling Up Linked Data] (https://www.slideshare.net/EUCLIDproject/scaling-up-linked-data)
 #### [RDF Stream Processors] (https://www.w3.org/community/rsp/wiki/RDF_Stream_Processors_Implementation)
 #### [VocBench](http://vocbench.uniroma2.it/)
+#### [ONGDB Open Neo4j](https://www.graphfoundation.org/projects/ongdb/) 
 
 ### Data, Data Science, Big Data, ML & AI
 
@@ -72,6 +73,10 @@ This is a record of awesome technology things found on the inerweb.
 #### [Open Elasticsearch](https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/)
 #### [Appache Druid](https://druid.apache.org/technology)
 
-### Frameoworks
+### Frameworks
 
 #### [Apache Geode](https://geode.apache.org/)
+
+### Conferences & Academic Papers
+
+#### [CEUR Workshop Proceedings](http://ceur-ws.org/)
