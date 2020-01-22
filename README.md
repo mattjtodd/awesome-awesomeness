@@ -30,7 +30,8 @@ This is a record of awesome technology things found on the inerweb.
 #### [Scaling Up Linked Data] (https://www.slideshare.net/EUCLIDproject/scaling-up-linked-data)
 #### [RDF Stream Processors] (https://www.w3.org/community/rsp/wiki/RDF_Stream_Processors_Implementation)
 #### [VocBench](http://vocbench.uniroma2.it/)
-#### [ONGDB Open Neo4j](https://www.graphfoundation.org/projects/ongdb/) 
+#### [ONGDB Open Neo4j](https://www.graphfoundation.org/projects/ongdb/)
+#### [Dgraph](https://github.com/dgraph-io/dgraph)
 
 ### Data, Data Science, Big Data, ML & AI
 
