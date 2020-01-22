@@ -84,6 +84,7 @@ This is a record of awesome technology things found on the inerweb.
 ### Networking
 
 #### [Roll Your Own Network](https://roll.urown.net/index.html)
+#### [Chisel](https://github.com/jpillora/chisel#security)
 
 ### Security, Encryption
 
